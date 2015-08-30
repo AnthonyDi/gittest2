@@ -4,4 +4,6 @@ This README file replacing the previous readme.txt
 
 Ig last commit.
 
-amend
+amend local
+
+amend github repository
